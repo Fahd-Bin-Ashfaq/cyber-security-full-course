@@ -5,13 +5,13 @@ Welcome to the **Cyber Security Full Course 2024**! This repository offers a com
 ## Course Overview
 
 ### Topics Covered:
-- **Introduction to Cybersecurity:** Fundamental concepts and principles.
-- **Threats and Vulnerabilities:** Overview of common threats, attacks, and vulnerabilities.
-- **Network Security:** Techniques for protecting networks and data transmission.
-- **Application Security:** Best practices for securing applications and software.
-- **Ethical Hacking:** Hands-on techniques for ethical hacking and penetration testing.
-- **Incident Response:** Procedures for handling and mitigating security incidents.
-- **Tools and Techniques:** Practical tools and methods used by cybersecurity professionals.
+- **Introduction to Cyber Security:** Fundamental concepts and principles.
+- **Linux Fundamentals:** Basic and advanced Linux commands and system management.
+- **Networking Fundamentals:** Core networking concepts and protocols.
+- **Introduction to Web Development:** Basics of web development and how it relates to security.
+- **Tools in Cyber Security:** Overview of essential cybersecurity tools and their uses.
+- **OWASP Top 10 (2021):** Understanding the top web application security risks as identified by OWASP.
+- **Introduction to Bug Bounty:** Basics of bug bounty programs and how to participate effectively.
 
 ## Features:
 - Detailed tutorials and guides.
