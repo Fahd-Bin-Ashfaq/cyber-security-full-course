@@ -1,6 +1,11 @@
-# What is a Hacker?
+# Who is a Hacker?
 
-A hacker is someone who uses their technical skills to gain unauthorized access to computer systems, networks, or data. The term "hacker" can have different meanings depending on the context:
+A Hacker is a person who uses their technical skills to gain unauthorized access to computer systems, networks, or data. The term "hacker" can have different meanings depending on the context:
+
+
+<img src="https://th.bing.com/th/id/R.75d219c6c966b8f3c532ef11a0178709?rik=vmfGYV2ofE30RQ&pid=ImgRaw&r=0" alt="Description of Image" width="300"/>
+
+
 
 1. **White Hat Hackers**
    - **Also Known As:** Ethical Hackers
@@ -9,7 +14,7 @@ A hacker is someone who uses their technical skills to gain unauthorized access 
 
 2. **Black Hat Hackers**
    - **Also Known As:** Malicious Hackers
-   - **Purpose:** They break into systems and networks with the intent to steal, damage, or exploit data for personal gain or to cause harm.
+   - **Purpose:** They break into systems and networks intending to steal, damage, or exploit data for personal gain or to cause harm.
    - **Example:** A hacker who steals credit card information from an online store.
 
 3. **Gray Hat Hackers**
