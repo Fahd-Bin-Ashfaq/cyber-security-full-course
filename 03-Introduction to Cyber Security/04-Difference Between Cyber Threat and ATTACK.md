@@ -6,7 +6,7 @@
 
 ## Cyber Attack
 - **Definition:** A cyber attack is an intentional act to exploit or gain unauthorized access to a computer system, network, or data. This involves actual efforts to breach security measures and cause harm or theft.
-- **Example:** 
+- **Example:** A hacker breaks into a network and steals sensitive data, that action is classified as a cyber attack.
 
 
 ## Common Types of Cyber Attacks
