@@ -1,18 +1,18 @@
 # Cyber Threat vs. Cyber Attack
  
 ## Cyber Threat
-- **Definition:** A cyber threat refers to any potential malicious act or attempt that could compromise the security of a computer system or network. This includes actions aimed at stealing information, disrupting operations, or causing harm to the system.
-- **Example:** A hacker actively probing for vulnerabilities in a network constitutes a cyber threat, even if they have not yet attempted to exploit these weaknesses.
+- **Definition:** A cyber threat refers to any potential danger or malicious activity that can compromise the security of computer systems, networks, or digital assets of an Organization
+- **Example:** A hacker who is actively looking for weaknesses in a network is considered a cyber threat, even if they haven't yet taken advantage of those weaknesses. 
 
 ## Cyber Attack
 - **Definition:** A cyber attack is an intentional act to exploit or gain unauthorized access to a computer system, network, or data. This involves actual efforts to breach security measures and cause harm or theft.
-- **Example:** A hacker who successfully infiltrates a network and exfiltrates sensitive data is engaged in a cyber attack.
+- **Example:** 
 
 
 ## Common Types of Cyber Attacks
 
 1. **Phishing**
-   - **Description:** An attempt to obtain sensitive information (like usernames, passwords, or credit card details) by masking as a trustworthy entity in electronic communications.
+   - **Description:** An attempt to obtain sensitive information (like usernames, passwords, or credit card details) by masking as a trustworthy entity using electronic communications.
    - **Example:** An email that looks like it’s from your bank, asking you to click a link and enter your account details.
 
 2. **Malware**
